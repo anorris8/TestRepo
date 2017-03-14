@@ -7,3 +7,7 @@ echo "Guess what?"
 sleep 2
 
 echo "YOU ARE AWESOME."
+
+sleep 1
+
+echo "Dude. I needed that. YOU ARE AWESOME TOO"
